@@ -1,0 +1,16 @@
+.image-header-desktop {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 33.75rem;
+    margin-right: -23.3rem;
+    margin-bottom: -6px;
+  }
+
+  @media only screen and (max-width: 30rem) {
+    .image-header-desktop {
+        height: 15rem;
+        margin: 0;
+        width: 20.438rem;
+      }
+  }
